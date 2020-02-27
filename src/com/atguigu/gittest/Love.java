@@ -6,6 +6,6 @@ public class Love {
 		
 		System.out.println("我稀罕你！！！");
 		System.out.println("who are you?");
-		
+		System.out.println("而是你哥哥");
 	}
 }
